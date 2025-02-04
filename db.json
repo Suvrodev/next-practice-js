@@ -1,0 +1,63 @@
+{
+  "posts": [
+    { "id": "1", "title": "a title", "views": 100 },
+    { "id": "2", "title": "another title", "views": 200 }
+  ],
+  "comments": [
+    { "id": "1", "text": "a comment about post 1", "postId": "1" },
+    { "id": "2", "text": "another comment about post 1", "postId": "1" }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "id": "1",
+      "title": "Apple   MacBook Pro 13\" with Touch Bar (2017)",
+      "brand": "Apple",
+      "model": "MacBook Pro 13\"",
+      "price": 777.917,
+      "image": "https://img-new.cgtrader.com/items/42740/927f0d1b62/hp-pavilion-slimline-desktop-computer-3d-model-max-obj-fbx.jpg"
+    },
+    {
+      "id": "2",
+      "title": "HP Pavilion Slimline Desktop",
+      "brand": "HP",
+      "model": "Pavilion Slimline",
+      "price": 110.917,
+      "image": "https://img-new.cgtrader.com/items/42740/347af570f6/large/hp-pavilion-slimline-desktop-computer-3d-model-max-obj-fbx.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Apple iMac (2025)",
+      "brand": "Apple",
+      "model": "iMac with M4 Chip",
+      "price": 1999.0,
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/na/product-wayfinder/dell-homepage-product-wayfinding-cold-monitors-u4025qw.png?fmt=png-alpha&wid=480&hei=360"
+    },
+    {
+      "id": "4",
+      "title": "Dell XPS 13",
+      "brand": "Dell",
+      "model": "XPS 13",
+      "price": 999.0,
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/na/product-wayfinder/dell-homepage-product-wayfinding-cold-laptops-xps16-sl.png?fmt=png-alpha&wid=480&hei=360"
+    },
+    {
+      "id": "5",
+      "title": "Lenovo ThinkPad X1 Carbon",
+      "brand": "Lenovo",
+      "model": "ThinkPad X1 Carbon",
+      "price": 1299.0,
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/page-specific/dell-homepage/na/product-wayfinder/young-businesswoman-working-from-modern-office-space.jpg?fmt=png-alpha&wid=480&hei=360"
+    },
+    {
+      "id": "6",
+      "title": "Asus ROG Zephyrus G14",
+      "brand": "Asus",
+      "model": "ROG Zephyrus G14",
+      "price": 1449.0,
+      "image": "https://img-new.cgtrader.com/items/42740/787a0a9410/hp-pavilion-slimline-desktop-computer-3d-model-max-obj-fbx.jpg"
+    }
+  ]
+}
